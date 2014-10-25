@@ -1,0 +1,13 @@
+{
+  "name": "fuse",
+  "homepage": "https://github.com/calebboyd/fuse",
+  "_release": "cbb2bc2e7b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cbb2bc2e7bc17ce7aabd45c98623fbc8d7f5843a"
+  },
+  "_source": "git://github.com/calebboyd/fuse.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/calebboyd/fuse.git"
+}
